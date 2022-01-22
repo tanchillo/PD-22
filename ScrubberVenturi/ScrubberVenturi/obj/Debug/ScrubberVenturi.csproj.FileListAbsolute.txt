@@ -1,0 +1,24 @@
+c:\users\rostislav\documents\visual studio 2015\Projects\ScrubberVenturi\ScrubberVenturi\bin\Debug\ScrubberVenturi.exe.config
+c:\users\rostislav\documents\visual studio 2015\Projects\ScrubberVenturi\ScrubberVenturi\bin\Debug\ScrubberVenturi.exe
+c:\users\rostislav\documents\visual studio 2015\Projects\ScrubberVenturi\ScrubberVenturi\bin\Debug\ScrubberVenturi.pdb
+c:\users\rostislav\documents\visual studio 2015\Projects\ScrubberVenturi\ScrubberVenturi\obj\Debug\ScrubberVenturi.csprojResolveAssemblyReference.cache
+c:\users\rostislav\documents\visual studio 2015\Projects\ScrubberVenturi\ScrubberVenturi\obj\Debug\ScrubberVenturi.csproj.ResolveComReference.cache
+c:\users\rostislav\documents\visual studio 2015\Projects\ScrubberVenturi\ScrubberVenturi\obj\Debug\ScrubberVenturi.Form1.resources
+c:\users\rostislav\documents\visual studio 2015\Projects\ScrubberVenturi\ScrubberVenturi\obj\Debug\ScrubberVenturi.Properties.Resources.resources
+c:\users\rostislav\documents\visual studio 2015\Projects\ScrubberVenturi\ScrubberVenturi\obj\Debug\ScrubberVenturi.csproj.GenerateResource.Cache
+c:\users\rostislav\documents\visual studio 2015\Projects\ScrubberVenturi\ScrubberVenturi\obj\Debug\ScrubberVenturi.exe
+c:\users\rostislav\documents\visual studio 2015\Projects\ScrubberVenturi\ScrubberVenturi\obj\Debug\ScrubberVenturi.pdb
+C:\Users\Rostislav\documents\visual studio 2015\Projects\ScrubberVenturi\ScrubberVenturi\obj\Debug\ScrubberVenturi.Form2.resources
+D:\ScrubberVenturi\ScrubberVenturi\obj\Debug\ScrubberVenturi.csproj.AssemblyReference.cache
+D:\ScrubberVenturi\ScrubberVenturi\obj\Debug\ScrubberVenturi.csproj.SuggestedBindingRedirects.cache
+D:\ScrubberVenturi\ScrubberVenturi\obj\Debug\ScrubberVenturi.csproj.ResolveComReference.cache
+D:\ScrubberVenturi\ScrubberVenturi\obj\Debug\ScrubberVenturi.Form2.resources
+D:\ScrubberVenturi\ScrubberVenturi\obj\Debug\ScrubberVenturi.Form1.resources
+D:\ScrubberVenturi\ScrubberVenturi\obj\Debug\ScrubberVenturi.Properties.Resources.resources
+D:\ScrubberVenturi\ScrubberVenturi\obj\Debug\ScrubberVenturi.csproj.GenerateResource.cache
+D:\ScrubberVenturi\ScrubberVenturi\obj\Debug\ScrubberVenturi.csproj.CoreCompileInputs.cache
+D:\ScrubberVenturi\ScrubberVenturi\obj\Debug\ScrubberVenturi.exe
+D:\ScrubberVenturi\ScrubberVenturi\obj\Debug\ScrubberVenturi.pdb
+D:\ScrubberVenturi\ScrubberVenturi\bin\Debug\ScrubberVenturi.exe.config
+D:\ScrubberVenturi\ScrubberVenturi\bin\Debug\ScrubberVenturi.exe
+D:\ScrubberVenturi\ScrubberVenturi\bin\Debug\ScrubberVenturi.pdb
